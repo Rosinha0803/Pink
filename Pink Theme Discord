@@ -1,0 +1,15 @@
+/**
+  * @name Rosinha
+  * @author 🖤</Rose>🖤#0034
+  * @version Pink+2
+  * @description Highly customized dark and Rose theme for Discord.
+  * @invite jsQ9UP7kCA
+*/
+
+:root {
+  --darkplus-bg: #330328;
+  --darkplus-bg2: #AB0A85;
+  --darkplus-sec: #E82074;
+  --darkplus-links: #0062F0;
+  --darkplus-home-icon: url(https://i.pinimg.com/originals/ef/cd/19/efcd1934b74e00941f72e20755a3d9ba.jpg)
+}
